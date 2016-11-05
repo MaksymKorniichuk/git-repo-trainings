@@ -14,7 +14,7 @@ public class Model {
     private int currentMaxLimitOfRange;
     private ArrayList<Integer> allInputNumbers;
 
-    private Integer hiddenIntNumber; // загаданное число
+    private Integer hiddenIntNumber;
 
     /**
      * Constructor of the class.
